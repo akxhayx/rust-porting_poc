@@ -3,7 +3,7 @@ This repository contains a Proof-of-Concept (PoC) for migrating AUTOSAR Classic 
  
 ## Features Validated 
 - Rust no_std application layer 
-- AUTOSAR RTE (C)  Rust FFI 
+- AUTOSAR RTE (C) Rust FFI 
 - Deterministic execution (panic=abort) 
 - MSVC toolchain compatibility 
  
